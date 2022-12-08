@@ -610,8 +610,32 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 11%, rgba(30,29,29,1) 24%, rgba
   background: #fbeaf1;
 }
 
-.skills .progress-bar {
-  width: 1px;
+.skills .progress-html {
+  width: 99%;
+  height: 10px;
+  transition: 0.9s;
+  background-color: #dd5a92;
+}
+.skills .progress-css {
+  width: 85%;
+  height: 10px;
+  transition: 0.9s;
+  background-color: #dd5a92;
+}
+.skills .progress-java {
+  width: 30%;
+  height: 10px;
+  transition: 0.9s;
+  background-color: #dd5a92;
+}
+.skills .progress-php {
+  width: 15%;
+  height: 10px;
+  transition: 0.9s;
+  background-color: #dd5a92;
+}
+.skills .progress-photo {
+  width: 46%;
   height: 10px;
   transition: 0.9s;
   background-color: #dd5a92;
